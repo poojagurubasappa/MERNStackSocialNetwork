@@ -15,3 +15,4 @@
   Create express server in server.js
   Create mongodb connection
   Create Routes using Express Router
+  Create User Model
