@@ -16,3 +16,5 @@
   Create mongodb connection
   Create Routes using Express Router
   Create User Model
+  Create Login Route. Use compare api of bcrypt to check if user credentials are valid
+  Send a JWT token back on successful login
